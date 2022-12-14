@@ -88,7 +88,7 @@ make user_project_wrapper
 
 ### 3. シミュレーションの実行
 
-RTL、ゲートレベル、ゲートレベル+sdf fileを verilog/includes/includes.<rtl/gl/gl+sdf>.caravel_user_project 以下に用意します。注意点として、Verilogコード中にファイルを含まないようにする必要があります。
+RTL、ゲートレベル、ゲートレベル+sdf fileが verilog/includes/includes.<rtl/gl/gl+sdf>.caravel_user_project 以下にある状態で実行します。注意点として、Verilogコード中にファイルを含まないようにする必要があります。
 
 ```
 # you can then run RTL simulations using
