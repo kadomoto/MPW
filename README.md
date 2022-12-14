@@ -5,9 +5,15 @@
 
 # caravelを利用した設計の一連の流れについて
 
-より正確な記述については[公式リポジトリ](https://github.com/efabless/caravel_user_project)の説明
+より正確な記述については[デジタル向け公式リポジトリ](https://github.com/efabless/caravel_user_project)の説明
 
-- https://github.com/efabless/caravel_user_project/blob/main/docs/source/index.rst#section-quickstart
+- https://github.com/efabless/caravel_user_project/blob/main/docs/source/index.rst
+
+を参照のこと。
+
+また、[アナログ向け公式リポジトリ](https://github.com/efabless/caravel_user_project_analog)も存在する。詳細説明については、
+
+- https://github.com/efabless/caravel_user_project_analog/blob/main/docs/source/index.rst
 
 を参照のこと。
 
