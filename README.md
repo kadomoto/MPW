@@ -17,6 +17,8 @@
 
 を参照のこと。
 
+2022年12月現在は、MPW-8を募集中で、ReRAMを使わない場合、 ```export PDK=sky130A``` と設定する必要がある。
+
 ## 概要
 
 [公式リポジトリ](https://github.com/efabless/caravel_user_project)には、caravelに基づくチップのユーザースペースを利用するためのサンプルプロジェクトが含まれています。IOパッド、ロジックアナライザプローブ、wishboneポートといったcaravelのユーザースペースに存在する機能を利用する方法が示されています。また、このリポジトリは、Open MPW program提出の際推奨される構造になっています。
