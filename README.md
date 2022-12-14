@@ -140,24 +140,24 @@ make run-precheck
 
 ✔️ プロジェクトの構造が[公式リポジトリ](https://github.com/efabless/caravel_user_project)と一致している
 
-✔️ プロジェクトのルートにinfo.yamlが含まれている
+✔️ プロジェクトのルートに info.yaml が含まれている
 
-✔️ トップレベルマクロの名前がuser_project_wrapperになっている
+✔️ トップレベルマクロの名前が user_project_wrapper になっている
 
 ✔️ RTL/ゲートレベルフルチップシミュレーションが通っている
 
 ✔️ 実装したマクロがLVS/DRCクリーンである
 
-✔️ user_project_wrapperのゲートレベルネットリストがverilog/gl/user_project_wrapper.vというかたちで含まれている
+✔️ user_project_wrapper のゲートレベルネットリストが verilog/gl/user_project_wrapper.v というかたちで含まれている
 
-✔️ 実装したuser_project_wrapperがpin_orderで定義されたピン配置にしたがっている
+✔️ 実装した user_project_wrapper が pin_order で定義されたピン配置にしたがっている
 
-✔️ 実装したuser_project_wrapperがfixed_wrapper_cfgsで定義された設定にしたがっている
+✔️ 実装した user_project_wrapper が fixed_wrapper_cfgs で定義された設定にしたがっている
 
-✔️ XORチェックが通過している
+✔️ XORチェックを通過している
 
-✔️ Openlaneのサマリーレポートが./signoff/に格納されている
+✔️ Openlaneのサマリーレポートが ./signoff/ に格納されている
 
-✔️ デザインがmpw-precheckを通過している
+✔️ デザインが mpw-precheck を通過している
 
 
